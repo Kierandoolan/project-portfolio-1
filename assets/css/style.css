@@ -24,10 +24,11 @@ h1, h2 {
 }
 #logo
 {
-padding-left: 15px;
-font-size:400%;
-float:left;
-color:#e30b2f}
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size:400%;
+    float:left;
+    color:#e30b2f}
 
 /*navigation links */
 
@@ -67,8 +68,10 @@ line-height:75px;
 /*main image*/
 
 #hero{
+    float: none;
     height: 500px;
     width: 100%;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat center center;
+    border-color: #edeef0 1px;
     
 }
