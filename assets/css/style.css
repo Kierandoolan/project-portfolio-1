@@ -24,6 +24,7 @@ h1, h2 {
 }
 #logo
 {
+padding-left: 15px;
 font-size:400%;
 float:left;
 color:#e30b2f}
@@ -63,3 +64,11 @@ color:#e30b2f}
 line-height:75px;
 }
 
+/*main image*/
+
+#hero{
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    
+}
