@@ -96,25 +96,12 @@ line-height:75px;
 
 /*intro* and equipment*/
 
-#intro {
-    height: 150px;
-    float:left;
-    width:50%;
-    margin-left:20px;
-    position: absolute;
+.intro 
+{
+    margin-left: 20px;
 }
 
 
-.equipment {
-    height:300px;
-    float:left;
-    position: absolute;
-    margin-top: 120px ;
-    margin-right:25px;
-    text-align: left;
-
-
-}
 
 #list {
     margin-left: 25px;
@@ -124,7 +111,8 @@ line-height:75px;
 /*footer*/
 
 footer {
-    height:200px;
+    margin-bottom: 100px;
+    width:100%;
 }
 
 .social-networks {
