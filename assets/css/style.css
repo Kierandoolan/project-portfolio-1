@@ -20,6 +20,8 @@ h1, h2 {
     text-transform: uppercase;
     letter-spacing: 3px;
     color:whitesmoke;
+    
+
 
 }
 #logo
@@ -75,3 +77,39 @@ line-height:75px;
     border-color: #edeef0 1px;
     
 }
+
+
+/*headings for each section*/
+
+.heading {
+    text-decoration: underline;
+    border-top: 3px;
+    letter-spacing: 3px;
+    color:#e30b2f ;
+    margin-left: 20px;
+
+}
+
+/*intro* and equipment*/
+
+#intro {
+    float:left;
+    width:50%;
+    margin-left:20px;
+}
+
+
+.equipment {
+    float:left;
+    position: absolute;
+    margin-top: 120px ;
+    margin-right:25px;
+    text-align: left;
+
+
+}
+
+#list {
+    margin-left: 25px;
+}
+
