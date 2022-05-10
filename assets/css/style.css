@@ -13,6 +13,8 @@ body {
     background-color:#37323b ;
 }
 
+
+
 /*logo and headings styling */
 
 h1, h2 {
@@ -24,6 +26,8 @@ h1, h2 {
 
 
 }
+
+
 #logo
 {
     padding-top: 15px;
@@ -93,13 +97,16 @@ line-height:75px;
 /*intro* and equipment*/
 
 #intro {
+    height: 150px;
     float:left;
     width:50%;
     margin-left:20px;
+    position: absolute;
 }
 
 
 .equipment {
+    height:300px;
     float:left;
     position: absolute;
     margin-top: 120px ;
@@ -111,5 +118,24 @@ line-height:75px;
 
 #list {
     margin-left: 25px;
+    display:block;
 }
 
+/*footer*/
+
+footer {
+    height:200px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 100%;
+    color:#e30b2f;
+}
