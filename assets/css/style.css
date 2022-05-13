@@ -139,15 +139,24 @@ footer {
     clear:both;
 }
 
-#classes-header {
-    margin-left: 25px ;
-    padding-top: 20px;
-    text-align: left;
+#class-top {
+    text-align: center;
+    color: #e30b2f;
+    margin-top: 25px;
+}
+.section-classes {
+    height:400px;
+    margin:25px;
 }
 
-.align-left {
-    text-align:left;
-    margin-left: 25px;
-    width: 50%;
-    border: 100px;
+.left-classes {
+    width:50%;
+    float:left; 
 }
+
+.right-classes {
+    width: 50%;
+    float:right;
+    background-color: black;
+}
+    
