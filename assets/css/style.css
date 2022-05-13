@@ -145,18 +145,63 @@ footer {
     margin-top: 25px;
 }
 .section-classes {
-    height:400px;
+    height:300px;
     margin:25px;
+
 }
 
 .left-classes {
     width:50%;
-    float:left; 
+    float:left;
+    text-align: left; 
 }
 
 .right-classes {
     width: 50%;
     float:right;
-    background-color: black;
-}
     
+}
+.heading-classes {
+    color:#e30b2f;
+     text-decoration: underline;
+        
+    }
+
+    .right-about {
+        margin-left:25px;
+    }
+    
+/*class-images*/
+
+#hiit-right {
+
+    height:300px;
+    width:80%;
+
+}
+
+
+#spin-left {
+    height:300px;
+    width:80%;
+}
+    #zumba-right {
+    
+    height:300px;
+    width:80%;
+    }
+
+/*table*/
+tr {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+tr, th, td {
+	text-align: left;
+}
+
+th, td {
+	border: 1px solid white;
+	padding: 5px;
+}
