@@ -132,3 +132,22 @@ footer {
     color:#e30b2f;
     
 }
+
+/*classes*/
+
+.clear {
+    clear:both;
+}
+
+#classes-header {
+    margin-left: 25px ;
+    padding-top: 20px;
+    text-align: left;
+}
+
+.align-left {
+    text-align:left;
+    margin-left: 25px;
+    width: 50%;
+    border: 100px;
+}
