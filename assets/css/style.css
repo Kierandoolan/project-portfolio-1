@@ -74,14 +74,13 @@ line-height:75px;
 /*main image*/
 
 #hero{
-    text-align: center;
+    
     height: 600px;
     width: 90%;
     background-repeat: no-repeat center center;
     display: block;
     margin-left:auto;
     margin-right:auto;
-    border-color: #edeef0 1px;
     position: relative;
     border: 2px #e30b2f;
     border-style: solid;
@@ -223,3 +222,40 @@ th, td {
 	border: 1px solid white;
 	padding: 5px;
 }
+
+/*free trial*/
+
+.form-detail {
+
+    color:#edeef0;
+    background-color:#e30b2f;
+    max-width:400px;
+    position:absolute;
+    margin: 0 15% 800px 0 ;
+    padding:30px;
+}
+
+.join-button {
+    background-color: #dbd80f;
+    border: 2px;
+    border-style: solid;
+}
+
+
+    
+
+
+/*free trial image*/
+#image-trial {
+    
+    height:800px;
+    width:95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 2px #e30b2f;
+    border-style: solid;
+    
+}
+
+
