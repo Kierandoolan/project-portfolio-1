@@ -147,6 +147,9 @@ footer {
 .section-classes {
     height:300px;
     margin:25px;
+    padding: 40px;
+    border: 1px;
+    border-style:groove;
 
 }
 
@@ -171,6 +174,13 @@ footer {
         margin-left:25px;
     }
     
+    #hiit-left {
+        margin-right:60px;
+    }
+
+    #zumba-left {
+        margin-right:60px;
+    }
 /*class-images*/
 
 #hiit-right {
@@ -185,7 +195,8 @@ footer {
     height:300px;
     width:80%;
 }
-    #zumba-right {
+
+#zumba-right {
     
     height:300px;
     width:80%;
