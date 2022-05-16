@@ -93,7 +93,7 @@ line-height:75px;
 
 .heading {
     text-decoration: underline;
-    border-top: 3px;
+    border-top: 5px;
     letter-spacing: 3px;
     color:#e30b2f ;
     margin-left: 20px;
@@ -326,14 +326,35 @@ th, td {
     .section-classes {
         float: left;
         clear:both;
-        margin:auto;
-        height: 650px;
+        margin:0 auto;
+        height: 800px;
         width:100%;
         border:2px;
-        padding: 0;
+        padding: 10px 0;
+        display: block;
     
     }
 
+    .times {
+        padding-left: 33%;
+        text-align: center;
+        width: 100%;
+        clear: both;
+    }
+
+    .spin-para {
+        text-align:right;
+        clear: both;
+    }
+    #spin-left {
+        clear: both;
+        float:left;
+        width: 100%;
+        padding: 0;
+    }
+    #spinning-time {
+        float: left;
+    }
         
     .form-div {
         height: 400px;
@@ -341,5 +362,90 @@ th, td {
         background-size: cover;
         
         
+    }
+
+        #class-top {
+        padding:5px 0;
+    }
+
+    .form-detail {
+        clear: both;
+        height: 337px;
+        width: 60%;
+        margin:0 auto;
+    }
+}
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+    
+
+    .first-page {
+        padding:0 auto;
+    }
+
+    #menu {
+        clear:both;
+        display: inline-block;
+        width: 100%;
+        font: 1em sans-serif;
+    }
+
+
+    .section-classes {
+        float: left;
+        clear:both;
+        margin:0 auto;
+        height: 800px;
+        width:100%;
+        border:2px;
+        padding: 10px 0;
+        display: block;
+    
+    }
+
+    .times {
+        padding-left: 33%;
+        text-align: center;
+        width: 100%;
+        clear: both;
+    }
+
+    .spin-para {
+        text-align:right;
+        clear: both;
+    }
+    #spin-left {
+        clear: both;
+        float:left;
+        width: 100%;
+        padding: 0;
+    }
+    #spinning-time {
+        float: left;
+    }
+        
+    .form-div {
+        height: 400px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        
+    }
+
+        #class-top {
+        padding:5px 0;
+    }
+
+    .form-detail {
+        clear: both;
+        height: 337px;
+        width: 60%;
+        margin:0 auto;
     }
 }
