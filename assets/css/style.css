@@ -258,7 +258,88 @@ th, td {
 }
 
 
+    /*media queries */
+
+    /* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+    @media (min-width: 1025px) and (max-width: 1280px) {
+        .section-classes {
+            border-style: none;
+        
+        }
+
+
+        .form-div  {
+            background-repeat: no-repeat;
+            border-style: none;
+        }
+
+    }
+
+    /* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+    @media (min-width: 768px) and (max-width: 1024px) {
+        .hiit {
+            float: left;
+            width:100% ;
+            clear: both;
+            padding:0;
+            
+        }
+
+        .section-classes {
+            height: 500px;
+           clear: both;
+        }
+
+        #spin-para {
+            float: right;
+        }
+
+        .form-div  {
+            clear: both;
+            background-repeat: no-repeat;
+            border-style: none ;
+            height: 500px;
+    }
+
+    }
+ /*
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    #menu {
+        clear:both;
+        float:left;
+        display:inline;
+        margin-left: 30px;
+    }
+
+
+    .section-classes {
+        float: left;
+        clear:both;
+        margin:auto;
+        height: 650px;
+        width:100%;
+        border:2px;
+        padding: 0;
     
+    }
 
-
-
+        
+    .form-div {
+        height: 400px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        
+    }
+}
