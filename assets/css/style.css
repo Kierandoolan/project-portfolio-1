@@ -225,14 +225,30 @@ th, td {
 
 /*free trial*/
 
-.form-detail {
+.form-div {
+    background-image: url('../images/sule-makaroglu-YFmvjO3TP_s-unsplash.jpg');
+    height: 800px;
+    width: 90%;
+    background-repeat: no-repeat center center;
+    background-size: contain;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    position: relative;
+    border: 2px #e30b2f solid;
+    
 
+}
+.form-detail {
+    
     color:#edeef0;
     background-color:#e30b2f;
     max-width:400px;
     position:absolute;
-    margin: 0 15% 800px 0 ;
+    margin-top: 10em;
+    margin-left: 2em;
     padding:30px;
+    border: 2px #edeef0 solid;
 }
 
 .join-button {
@@ -244,18 +260,5 @@ th, td {
 
     
 
-
-/*free trial image*/
-#image-trial {
-    
-    height:800px;
-    width:95%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    border: 2px #e30b2f;
-    border-style: solid;
-    
-}
 
 
