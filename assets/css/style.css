@@ -194,6 +194,10 @@ footer {
     #zumba-left {
         margin-right:60px;
     }
+
+    #spin-left {
+        margin-right:60px;
+    }
 /*class-images*/
 
 #hiit-right {
@@ -204,7 +208,7 @@ footer {
 }
 
 
-#spin-left {
+#spin-right {
     height:300px;
     width:80%;
 }
@@ -236,8 +240,8 @@ th, td {
     background-image: url('../images/sule-makaroglu-YFmvjO3TP_s-unsplash.jpg');
     height: 800px;
     width: 90%;
-    background-repeat: no-repeat center center;
-    background-size: contain;
+    background-repeat: no-repeat;
+    background-size:cover;
     display: block;
     margin:auto;
     position: relative;
@@ -303,9 +307,14 @@ th, td {
         }
 
         #spin-para {
-            float: right;
+            float: left;
         }
 
+        #spin-left {
+            width:100%;
+            clear:both;
+            height: 300px;
+        }
         .form-div  {
             clear: both;
             background-repeat: no-repeat;
@@ -319,7 +328,7 @@ th, td {
   ##Screen = B/w 481px to 767px
 */
 
-@media (min-width: 481px) and (max-width: 767px) {
+@media (min-width: 380px) and (max-width: 767px) {
 
     #menu {
         clear:both;
@@ -330,19 +339,16 @@ th, td {
 
 
     .section-classes {
-        float: left;
         clear:both;
         margin:0 auto;
         height: 800px;
         width:100%;
-        border:2px;
-        padding: 10px 0;
         display: block;
     
     }
 
     .times {
-        padding-left: 33%;
+        
         text-align: center;
         width: 100%;
         clear: both;
@@ -360,6 +366,7 @@ th, td {
     }
     #spinning-time {
         float: left;
+        margin-right:33%
     }
         
     .form-div {
@@ -396,6 +403,7 @@ th, td {
         padding:0 auto;
     }
 
+    
     #menu {
         clear:both;
         display: inline-block;
@@ -403,21 +411,33 @@ th, td {
         font: 1em sans-serif;
     }
 
-
+.clear{
+    padding:0 auto;
+}
     .section-classes {
-        float: left;
+        float:left;
         clear:both;
         margin:0 auto;
-        height: 1000px;
+        height:800px;
         width:100%;
         padding: 0;
-        display:inline;
-        border-bottom:100px ;
+        display:block;
+        border-style: none;
+        border-bottom:100px;
     
     }
 
+    .right-classes {
+        width:100%;
+        clear:both;
+    }
+
+    .left-classes {
+        width:100%;
+        clear:both;
+    }
     .times {
-        padding:0;
+        float: left;
         width: 100%;
         clear: both;
     }
@@ -425,35 +445,58 @@ th, td {
     
 
     #spinning-section {
-        height:600px;
-    }
-    .spinning-classes {
-        height:400px;
-    }
-    .spin-para {
-        text-align:right;
-        clear: both;
-        width:100%;
-        height: 300px;
     
+        clear:both;
+        float: left;
     }
+    
+    
+    
     #spin-left {
         clear: both;
         float:left;
         width: 100%;
+        text-align: left;
         
     }
     #spinning-time {
         padding:0;
+        margin-right: 33%;
     }
         
-    #class-top {
-        padding:5px 0;
+    #zumba {
+        margin-top: 200px;
+        clear:both;
     }
+    #class-top {
+        padding:10px, 0, 10px, 0;
+    }
+
+    #hiit-right {
+
+        height:300px;
+        width:100%;
+    
+    }
+    
+    
+    #spin-right {
+        height:300px;
+        width:100%;
+    }
+    
+    #zumba-right {
+        
+        height:300px;
+        width:100%;
+        }
+    
     .form-div {
            background-image: none;
            border: none;
        }
+
+
 
 
     .form-detail {
@@ -466,4 +509,5 @@ th, td {
     }
 
     
+
 }
