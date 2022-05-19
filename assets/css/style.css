@@ -337,7 +337,6 @@ th, td {
         margin-left: 30px;
     }
 
-
     .section-classes {
         clear:both;
         margin:0 auto;
@@ -410,20 +409,34 @@ th, td {
         width: 100%;
         font: 1em sans-serif;
     }
-
-.clear{
-    padding:0 auto;
+    #hero {
+        height:auto;
+        width: 80%;
+        margin-top: 15px;
+    }
+    .intro {
+        float: none;
+        width: 90%;
+    
+    }
+    .clear{
+        padding:0 auto;
+        clear:both
 }
+
+#class-top {
+    padding-top:15px
+}
+   
     .section-classes {
-        float:left;
         clear:both;
         margin:0 auto;
-        height:800px;
+        height:600px;
         width:100%;
-        padding: 0;
+        padding: 30px 0;
         display:block;
         border-style: none;
-        border-bottom:100px;
+        
     
     }
 
@@ -440,12 +453,14 @@ th, td {
         float: left;
         width: 100%;
         clear: both;
+        padding: 0 0 20px 0;
+    
     }
 
     
 
     #spinning-section {
-    
+        height:auto;
         clear:both;
         float: left;
     }
@@ -460,7 +475,7 @@ th, td {
         
     }
     #spinning-time {
-        padding:0;
+        padding:20px  0;
         margin-right: 33%;
     }
         
@@ -468,10 +483,7 @@ th, td {
         margin-top: 200px;
         clear:both;
     }
-    #class-top {
-        padding:10px, 0, 10px, 0;
-    }
-
+    
     #hiit-right {
 
         height:300px;
@@ -492,22 +504,34 @@ th, td {
         }
     
     .form-div {
-           background-image: none;
-           border: none;
-       }
-
-
-
-
+            height: 400px;
+            background-image: none;
+            border: none;
+            width: 100%;
+            padding-top: 15px;
+        }
+ 
+ 
     .form-detail {
-        clear: both;
-        height: 400px;
-        width: 100%;
-        margin:0 auto;
-        border:none;
-        border-radius: 5%;
+         
+         height: 400px;
+         width:fit-content;
+         border: 0 auto;
+         padding-left: 15px;
+         padding-top: 15px;
+         margin: 0%;
+         max-width: fit-content;
+         
+        
+     }
+    
+     
+    .contain {
+    font-size: larger ;
     }
 
+    .join-button {
+        margin-bottom: 400px;
     
-
+    }
 }
