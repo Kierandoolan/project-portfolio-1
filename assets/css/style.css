@@ -263,8 +263,10 @@ th, td {
 
 .join-button {
     background-color: #dbd80f;
+    font-size: medium;
     border: 2px;
-    border-style: solid;
+    border-radius: 5%;
+    border-style:outset;
 }
 
 
@@ -514,7 +516,7 @@ th, td {
  
     .form-detail {
          
-         height: 400px;
+         height: 500px;
          width:fit-content;
          border: 0 auto;
          padding-left: 15px;
@@ -530,8 +532,10 @@ th, td {
     font-size: larger ;
     }
 
-    .join-button {
-        margin-bottom: 400px;
     
+
+    .social-networks{
+        margin-top: 100px;
     }
+
 }
