@@ -32,7 +32,7 @@ This is the main website for Fuel. It is designed to be responsive and accessibl
 
 *   ### Wireframes
 
-    -   All wireframes are [here](/readme/docs/wireframes.pdf)
+    -   All wireframes are [here](wireframes.pdf)
 
 
 ## Features
