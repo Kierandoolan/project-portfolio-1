@@ -32,11 +32,8 @@ This is the main website for Fuel. It is designed to be responsive and accessibl
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    -   All wireframes are [here](/readme/docs/wireframes.pdf)
 
-    -   Mobile Wireframe - [View](https://github.com/)
-
-    -   Contact Us Page Wireframe - [View](https://github.com/)
 
 ## Features
 
@@ -93,14 +90,25 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   The Website was tested on Google Chrome, Microsoft Edge and Safari browsers.
 -   The website was viewed on a variety of devices such as Desktop, Laptop and developer tools app which provides mock up phones with responsive.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
--   
+-   I have tested all three webpages with Lighthouse and have maintained a high standard throughout for Performance, Accessibilty,
+    Best Pratice and SEO. Here is Screenshots of all three pages
+
+     <h3 align="center"><img src="assets/images/home-lighthouse.png"></h3>
+    
+
+      <h3 align="center"><img src="assets/images/classes-lighthouse.png"></h3>
+
+
+       <h3 align="center"><img src="assets/images/form-lighthouse.png"></h3>
+
 
 
 ### Fixed Bugs
 
-- On the Classes Page, there was an issue with the pictures and tables when viewing on smaller screens. I fixed this issue by using float and clear propertes.
--My hero image also was taking to long and was giving me a low performance of 82
-<h2 align="center"><img src="assets/images/low-performance-lighthouse.png"></h2>
+-   On the Classes Page, there was an issue with the pictures and tables when viewing on smaller screens. I fixed this issue by using clear
+    float properties.
+-   My hero image also was taking to long and was giving me a low performance of 82
+    <h2 align="center"><img src="assets/images/low-performance-lighthouse.png"></h2>
 To fixed this i deleted the image and downloaded it again at a bigger size which brought up the performance to 91.
 
 ### Known Bugs
