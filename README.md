@@ -43,27 +43,26 @@ This is the main website for Fuel. It is designed to be responsive and accessibl
 
 ## Screenshots
 
-<h2 align="center"><img src="assets/images/logo-nav-hero.png"></h2>
-
 - Here is the logo of fuel, a easy to use navigation bar and the hero image of Fuel gym. The logo and navigation is consistant throughout.
 
-
-
-<h2 align="center"><img src="assets/images/intro.png"></h2>
+<h2 align="center"><img src="assets/images/logo-nav-hero.png"></h2>
 
 - Here is information about the gym which would provide the user with the information they need.
 
-<h2 align="center"><img src="assets/images/footer.png"></h2>
+<h2 align="center"><img src="assets/images/intro.png"></h2>
 
 - Here is the bottom of the pages that has the social media icons and the contact number. The footer is consistant throughout.
 
-<h2 align="center"><img src="assets/images/hiit.png"></h2>
+<h2 align="center"><img src="assets/images/footer.png"></h2>
 
 - Here is one of the three classes on the class page, it gives a description, an image and a timetable of each class. The design is the same for the other classes on the page.
 
-<h2 align="center"><img src="assets/images/form.png"></h2>
+<h2 align="center"><img src="assets/images/hiit.png"></h2>
 
 -Here is the form to avail of one of the three classes with a background image. The details are required. 
+
+<h2 align="center"><img src="assets/images/form.png"></h2>
+
 
 ### Languages Used
 
