@@ -32,14 +32,38 @@ This is the main website for Fuel. It is designed to be responsive and accessibl
 
 *   ### Wireframes
 
-    -   All wireframes are [here](readme/docs/wireframes.pdf)
+    -   All wireframes are located here [here](readme/docs/wireframes.pdf).
+    -   I have added timetables into the actual website which is not on the wireframes.
+    -   Tablet wireframes were not added as it is the same as desktop viewing.
 
 
 ## Features
 
 -   Responsive on all device sizes
 
+## Screenshots
 
+<h2 align="center"><img src="assets/images/logo-nav-hero.png"></h2>
+
+- Here is the logo of fuel, a easy to use navigation bar and the hero image of Fuel gym. The logo and navigation is consistant throughout.
+
+
+
+<h2 align="center"><img src="assets/images/intro.png"></h2>
+
+- Here is information about the gym which would provide the user with the information they need.
+
+<h2 align="center"><img src="assets/images/footer.png"></h2>
+
+- Here is the bottom of the pages that has the social media icons and the contact number. The footer is consistant throughout.
+
+<h2 align="center"><img src="assets/images/hiit.png"></h2>
+
+- Here is one of the three classes on the class page, it gives a description, an image and a timetable of each class. The design is the same for the other classes on the page.
+
+<h2 align="center"><img src="assets/images/form.png"></h2>
+
+-Here is the form to avail of one of the three classes with a background image. The details are required. 
 
 ### Languages Used
 
@@ -88,8 +112,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### Further Testing
 
 -   The Website was tested on Google Chrome, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop and developer tools app which provides mock up phones with responsive.
+-   The website was viewed on a variety of devices such as Desktop, Laptop and developer tools app which provides mock up phones  with responsive.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
+-   I have tested the form works on the free trial page. You have to enter the required detail. 
 -   I have tested all three webpages with Lighthouse and have maintained a high standard throughout for Performance, Accessibilty,
     Best Pratice and SEO. Here is Screenshots of all three pages
 
