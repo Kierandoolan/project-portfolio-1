@@ -63,7 +63,6 @@ This is the main website for Fuel. It is designed to be responsive and accessibl
 
 <h2 align="center"><img src="assets/images/form.png"></h2>
 
-
 ### Languages Used
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
