@@ -101,7 +101,7 @@ line-height:75px;
     max-width: 800px;
     margin: auto;
     text-align: left;
-    padding: 10px;
+    padding: 5px;
 
 }
 
@@ -262,13 +262,15 @@ th, td {
     
     color:#edeef0;
     background-color:#e30b2f;
-    max-width:400px;
-    position:absolute;
-    margin-top: 10em;
-    margin-left: 2em;
-    padding:30px;
-    border: 2px #edeef0 solid;
+    position: absolute;
+    left: 0;
+    margin: 20px;
+    max-width: 300px;
+    padding: 16px;
+    
 }
+
+
 
 .join-button {
     background-color: #dbd80f;
@@ -351,7 +353,7 @@ th, td {
     .section-classes {
         clear:both;
         margin:0 auto;
-        height: 800px;
+        height: 400px;
         width:100%;
         display: block;
     
