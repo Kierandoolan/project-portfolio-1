@@ -98,7 +98,10 @@ line-height:75px;
     border-top: 5px;
     letter-spacing: 3px;
     color:#e30b2f ;
-    margin-left: 20px;
+    max-width: 800px;
+    margin: auto;
+    text-align: left;
+    padding: 10px;
 
 }
 
@@ -106,15 +109,19 @@ line-height:75px;
 
 .intro 
 {
-    margin-left: 20px;
-    width:50%;
+    max-width: 800px;
+    margin: auto;
+    text-align: left;
+    padding: 10px;
 }
 
 
 
 #list {
-    margin-left: 25px;
-    display:block;
+    max-width: 800px;
+    margin: auto;
+    text-align: left;
+    padding: 10px;
 }
 
 /*footer*/
