@@ -169,7 +169,7 @@ footer {
 .section-classes {
     height:300px;
     margin:25px;
-    padding: 40px;
+    padding: 60px;
     border: 1px;
     border-style:groove;
 
@@ -520,8 +520,9 @@ th, td {
             height: 400px;
             background-image: none;
             border: none;
-            width: 100%;
-            padding-top: 15px;
+            width: 90%;
+            padding-top:20px;
+            margin-left: 30px; 
         }
  
  
