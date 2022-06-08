@@ -159,7 +159,7 @@ The project was deployed to GitHub Pages using the following steps...
 -   The full-screen hero image code came from [Sven Mieke](https://unsplash.com/photos/MsCgmHuirDo)
 -   The Hiit Picture came from [Karsten Winegeart](https://unsplash.com/photos/0Wra5YYVQJE)
 -   The Spinning Picture came from [David Marioni](https://unsplash.com/photos/F_lns58a_ec)
--   The Zumba Picure came from [Kaspars Eglitis](https://unsplash.com/photos/Vdx-2lsuhm0)
+-   The Zumba Video came from [Youtube](https://www.youtube.com/watch?v=yhW1mO3y7dc&t=29s)
 -   The form background image came from [ŞULE MAKAROĞLU](https://unsplash.com/photos/YFmvjO3TP_s)
 
 
