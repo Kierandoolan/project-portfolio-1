@@ -282,6 +282,30 @@ th, td {
 }
 
 
+/*completed form page*/
+
+.complete {
+    background-image: url('../images/sour-moha-_cUZkx0wTyM-unsplash.jpg');
+    height: 600px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:top;
+    display: block;
+    margin:auto;
+    border: 2px #e30b2f solid;
+}
+
+#center-comp {
+    text-align: center;
+    margin: auto;
+    font-weight: 400;
+    color: #dbd80f;
+    margin: 30px 70px;
+    
+    
+}
+
     /*media queries */
 
     /* 
