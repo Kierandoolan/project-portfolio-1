@@ -281,6 +281,9 @@ th, td {
     border-style:outset;
 }
 
+#dumbbell {
+    color:black;
+}
 
 /*completed form page*/
 
@@ -301,7 +304,7 @@ th, td {
     margin: auto;
     font-weight: 400;
     color: #dbd80f;
-    margin: 30px 70px;
+    margin: 30px 100px;
     
     
 }
