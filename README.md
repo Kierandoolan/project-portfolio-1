@@ -90,6 +90,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fkierandoolan.github.io%2Fproject-portfolio-1%2F)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2F8000-kierandoola-projectport-v2h5jb7a9n8.ws-eu45.gitpod.io%2Findex.html&usermedium=all&vextwarning=&warning=1)
 
+- I also tested the form to see if the data was sending correctly thanks to Code Institute form module .
+        <h3 align="center"><img src="assets/images/data.png"></h3>
+
+
 ### Testing User Stories from User Experience (UX) Section
 
 -   #### First Time Visitor Goals
