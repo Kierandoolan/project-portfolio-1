@@ -87,7 +87,7 @@ This is the main website for Fuel. It is designed to be responsive and accessibl
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2F8000-kierandoola-projectport-v2h5jb7a9n8.ws-eu45.gitpod.io%2Findex.html&usermedium=all&vextwarning=&warning=1)
+-   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fkierandoolan.github.io%2Fproject-portfolio-1%2F)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2F8000-kierandoola-projectport-v2h5jb7a9n8.ws-eu45.gitpod.io%2Findex.html&usermedium=all&vextwarning=&warning=1)
 
 ### Testing User Stories from User Experience (UX) Section
@@ -161,6 +161,7 @@ The project was deployed to GitHub Pages using the following steps...
 -   The Spinning Picture came from [David Marioni](https://unsplash.com/photos/F_lns58a_ec)
 -   The Zumba Video came from [Youtube](https://www.youtube.com/watch?v=yhW1mO3y7dc&t=29s)
 -   The form background image came from [ŞULE MAKAROĞLU](https://unsplash.com/photos/YFmvjO3TP_s)
+-   The form complete image came from [Sour Moha](https://unsplash.com/photos/_cUZkx0wTyM)
 
 
 ### Content
