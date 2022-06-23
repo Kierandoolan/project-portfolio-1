@@ -137,10 +137,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   My hero image also was taking to long and was giving me a low performance of 82
     <h2 align="center"><img src="assets/images/low-performance-lighthouse.png"></h2>
 To fixed this i deleted the image and downloaded it again at a bigger size which brought up the performance to 91.
+ 
+- Had a issue with the form detail page that took me weeks to fix. Could not figure out why the form detail was taking up too much space. Found out with the help of a tutor that i had accidently put a style in for the radio button zumba that pushed it too the bottom as you can see in the next picture. 
+    <h2 align="center"><img src="assets/images/error.png"></h2>
 
-### Known Bugs
 
--   On Mobile Devices, The freetrial page pushes some of the form to the bottom leaving a big open space in the middle.
+
 
 ## Deployment
 
